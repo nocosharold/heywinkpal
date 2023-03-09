@@ -67,5 +67,3 @@ mongoose.connect(process.env.MONGO_URL, {
     console.log('\x1b[41m%s\x1b[0m', `${error} did not connect`);
 })
 
-// https://www.youtube.com/watch?v=K8YELRmUb5o
-// TODO 1:17
